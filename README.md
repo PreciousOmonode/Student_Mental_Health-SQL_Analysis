@@ -81,12 +81,10 @@ ORDER BY stay DESC;
 
 ## Repository Structure
 
-```
-├── notebook.ipynb       # Main analysis notebook (DataCamp Workspace)
-├── students.csv         # Dataset (286 students, 50 features)
+├── README.md            # Project documentation
 ├── mentalhealth.jpg     # Project illustration
-└── README.md            # Project documentation
-```
+├── notebook.ipynb       # Main analysis notebook (DataCamp Workspace)
+└── students.csv         # Dataset (286 students, 50 features)
 
 ---
 
